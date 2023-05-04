@@ -1,0 +1,7 @@
+{
+    "XPR": [{
+        "supply": "1000000.0000 XPR",
+        "max_supply": "10000000000.0000 XPR",
+        "issuer": "eosio"
+    }]
+}

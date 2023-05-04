@@ -1,0 +1,11 @@
+{
+    "scope": [
+        {
+            "index": "123456",
+            "oracle_index": "123456",
+            "plan_days": "123456",
+            "multiplier": 123,
+            "is_active": true
+        }
+    ]
+}

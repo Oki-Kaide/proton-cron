@@ -1,0 +1,7 @@
+contracts:
+  cron:
+    name: cron
+    wasm: atom.wasm
+    abi: atom.abi
+    fixturesDir: tests/fixtures/cron
+options: null
